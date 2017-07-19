@@ -79,10 +79,13 @@ thead {
   padding-right: 50px;
 }
 
-.button {
+#textarea {
+  width: 100%;
+}
+
+#submit_button {
   background-color: #1fabe5;
   border: none;
-  color: #1fabe5;
+  color: white;
   padding: 15px 32px;
-  display: inline-block;
 }
